@@ -1,4 +1,0 @@
-id,type,alt_km,inc_deg,raan_deg,ma_deg,name
-USR-001,satellite,550,53,10,0,Demo Sat A
-USR-002,debris,552,97.5,120,45,Demo Fragment B
-USR-003,rocket_body,780,86,200,300,Demo Stage C
